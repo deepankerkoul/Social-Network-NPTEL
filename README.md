@@ -1,4 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to Social Networks
+
+This is a helper repository to the [NPTEL](<insert nptel link here>) Course on [Social Network](<Enter the youtube link here>)
+
+This course deals with the study of Social Networks, Graphs and various techniques available for the analysis of networks both Social Networks (such as Facebook, Twitter etc).
+
+During the course of this course i was introducted to the following libraries and tools
+
+- [Networkx](<Insert link to networkx documentation>)
+- [Gephi](<Insert link to Gephi>)
+
+The course contents are as follows:
+1. Introduction to Social Networks
+2. Handling Real-World Network Datasets
+3. Strength of Weak Ties
+4. Homophily
+5. Positive and Negative Relationships
+6. Link Analysis
+
+
+########################################################################################################################################################################
 
 You can use the [editor on GitHub](https://github.com/deepankerkoul/Social-Network-NPTEL/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
